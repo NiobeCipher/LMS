@@ -1,0 +1,20 @@
+{
+  "all_books": [
+    {
+      "isbn": 0,
+      "title": "Title",
+      "author": "Author",
+      "publication": "Pub",
+      "year": "Year",
+      "quantity": 2
+    },
+    {
+      "isbn": 1,
+      "title": "Title",
+      "author": "Author",
+      "publication": "Pub",
+      "year": "Year",
+      "quantity": 1
+    }
+  ]
+}
